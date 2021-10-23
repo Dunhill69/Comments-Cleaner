@@ -108,7 +108,7 @@ msgstr "Eliminar Fuerzas"
 
 #: config.py:62
 msgid "Force the justification (ecrase \"center\" and \"right\")"
-msgstr "Forzar la justificación (ecrase \"centro\" y \"derecha\")"
+msgstr "Forzar la justificación (reemplazar \"centro\" y \"derecha\")"
 
 #: config.py:63
 msgid "Justification for indeterminate text (keep \"center\" and \"right\")"
