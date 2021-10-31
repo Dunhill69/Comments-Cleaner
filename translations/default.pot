@@ -20,212 +20,212 @@ msgstr ""
 
 #: __init__.py:31 action.py:39
 msgid "Remove the scraps CSS in HTML comments"
-msgstr ""
+msgstr "Eliminar el CSS para el bloc de notas en los comentarios HTML"
 
 #: action.py:64
 msgid "&Clean the selecteds Comments"
-msgstr ""
+msgstr "&Limpiar los comentarios seleccionados"
 
 #: action.py:70
 msgid "&Customize plugin..."
-msgstr ""
+msgstr "&Personalizar complemento..."
 
 #: action.py:87 action.py:92
 msgid "No selected book"
-msgstr ""
+msgstr "Ningún libro seleccionado"
 
 #: action.py:87 action.py:92
 msgid "No book selected for cleaning comments"
-msgstr ""
+msgstr "Ningún libro seleccionado para comentarios de limpieza"
 
 #: action.py:123
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: action.py:125
 msgid "Comments Cleaner Progress"
-msgstr ""
+msgstr "Comments Cleaner Progreso"
 
 #: action.py:164
 msgid "Book {:d} of {:d}"
-msgstr ""
+msgstr "Libro {:d} de {:d}"
 
 #: action.py:200
 msgid "Update the library for {:d} books..."
-msgstr ""
+msgstr "Actualice la biblioteca de {:d} libros..."
 
 #: common_utils.py:223
 msgid "Restart required"
-msgstr ""
+msgstr "Reinicio requerido"
 
 #: common_utils.py:224
 msgid "Title image not found - you must restart Calibre before using this plugin!"
-msgstr ""
+msgstr "No se encontró la imagen del título - debe reiniciar Calibre antes de usar este complemento!"
 
 #: common_utils.py:299
 msgid "Keyboard shortcut dialog"
-msgstr ""
+msgstr "Atajo de Teclado diálogo"
 
 #: common_utils.py:301
 msgid "Keyboard shortcuts"
-msgstr ""
+msgstr "Atajos de Teclado"
 
 #: config.py:47
 msgid "Keep URL"
-msgstr ""
+msgstr "Mantener URL"
 
 #: config.py:48
 msgid "Delete URL"
-msgstr ""
+msgstr "Eliminar URL"
 
 #: config.py:51
 msgid "Converte to a paragraph"
-msgstr ""
+msgstr "Convertir a un párrafo"
 
 #: config.py:52
 msgid "Converte to a paragraph but keep the bold"
-msgstr ""
+msgstr "Convertir a un párrafo pero mantener la negrita"
 
 #: config.py:53 config.py:64 config.py:75 config.py:81 config.py:86
 #: config.py:91 config.py:95
 msgid "No change"
-msgstr ""
+msgstr "Sin cambio"
 
 #: config.py:56
 msgid "Round the Weights value to the hundred"
-msgstr ""
+msgstr "Redondea el valor de carga a cien"
 
 #: config.py:57
 msgid "Round to Bold (value 600)"
-msgstr ""
+msgstr "Redonda a negrita (valor 600)"
 
 #: config.py:58
 msgid "Do not change the Weights"
-msgstr ""
+msgstr "No cambie la carga"
 
 #: config.py:59
 msgid "Delete Weights"
-msgstr ""
+msgstr "Eliminar Cargas"
 
 #: config.py:62
 msgid "Force the justification (ecrase \"center\" and \"right\")"
-msgstr ""
+msgstr "Forzar la justificación (suprimir \"centro\" y \"derecha\")"
 
 #: config.py:63
 msgid "Justification for indeterminate text (keep \"center\" and \"right\")"
-msgstr ""
+msgstr "Justificación para texto indeterminado (mantenga \"centro\" y \"derecha\")"
 
 #: config.py:65
 msgid "Delete all alignment"
-msgstr ""
+msgstr "Eliminar toda la alineación"
 
 #: config.py:68
 msgid "Use the 'Justification' setting"
-msgstr ""
+msgstr "Utilice la configuración de 'Justificación'"
 
 #: config.py:69
 msgid "Delete the alignment in lists"
-msgstr ""
+msgstr "Eliminar la alineación en listas"
 
 #: config.py:72
 msgid "Delete \"id\" attribut"
-msgstr ""
+msgstr "Eliminar atributo \"id\""
 
 #: config.py:73
 msgid "Delete \"class\" attribut"
-msgstr ""
+msgstr "Eliminar el atributo \"class\""
 
 #: config.py:74
 msgid "Delete \"id\" and \"class\" attribut"
-msgstr ""
+msgstr "Eliminar el atributo \"id\" y \"class\""
 
 #: config.py:79
 msgid "Convert in all comments (not recomanded)"
-msgstr ""
+msgstr "Convertir en todos los comentarios (no recomendado)"
 
 #: config.py:80
 msgid "Convert only from a plain text comment"
-msgstr ""
+msgstr "Convertir solo desde un comentario de texto sin formato"
 
 #: config.py:84
 msgid "Create a empty paragraph"
-msgstr ""
+msgstr "Crea un párrafo vacío"
 
 #: config.py:85 config.py:89
 msgid "Create a new paragraph"
-msgstr ""
+msgstr "Crea un nuevo párrafo"
 
 #: config.py:90
 msgid "Replace with space"
-msgstr ""
+msgstr "Reemplazar con espacio"
 
 #: config.py:94
 msgid "Merge in a single empty paragraph"
-msgstr ""
+msgstr "Combinar en un solo párrafo vacío"
 
 #: config.py:96
 msgid "Delete empty paragraph"
-msgstr ""
+msgstr "Eliminar párrafo vacío"
 
 #: config.py:130
 msgid "Comments Cleaner Options"
-msgstr ""
+msgstr "Comments Cleaner Opciones"
 
 #: config.py:151
 msgid "Hyperlink:"
-msgstr ""
+msgstr "Hipervinculo:"
 
 #: config.py:155
 msgid "Headings:"
-msgstr ""
+msgstr "Encabezados:"
 
 #: config.py:165
 msgid "Remove Italic"
-msgstr ""
+msgstr "Quitar cursiva"
 
 #: config.py:169
 msgid "Remove Underline"
-msgstr ""
+msgstr "Quitar subrayado"
 
 #: config.py:173
 msgid "Remove Strikethrough"
-msgstr ""
+msgstr "Quitar tachado"
 
 #: config.py:180
 msgid "Justification:"
-msgstr ""
+msgstr "Justificación:"
 
 #: config.py:184
 msgid "List alignment:"
-msgstr ""
+msgstr "Alineación de lista:"
 
 #: config.py:188
 msgid "ID & CLASS attributs:"
-msgstr ""
+msgstr "ID & CLASS atributos:"
 
 #: config.py:195
 msgid "CSS rule to keep:"
-msgstr ""
+msgstr "Regla CSS para mantener:"
 
 #: config.py:198
 msgid "Custom CSS rules to keep in addition to the basic ones. Rules separated by a space."
-msgstr ""
+msgstr "Reglas CSS personalizadas para mantener además de las básicas. Reglas separadas por un espacio."
 
 #: config.py:203
 msgid "Remove all formatting"
-msgstr ""
+msgstr "Eliminar todo el formato"
 
 #: config.py:215
 msgid "Markdown:"
-msgstr ""
+msgstr "Markdown:"
 
 #: config.py:218
 msgid "Try to convert the Markdown strings to HTML"
-msgstr ""
+msgstr "Intenta convertir las cadenas de Markdown a HTM"
 
 #: config.py:220
 msgid "Multiple 'Line Return' in a paragraph:"
-msgstr ""
+msgstr "Múltiples 'Retorno de línea' en un párrafo:"
 
 #: config.py:224
 msgid "Single 'Line Return' in a paragraph:"
@@ -236,15 +236,17 @@ msgid ""
 "This operation is applied after \"Multiple 'Line Return' in a paragraph\"\n"
 "and before \"Multiple empty paragraph\""
 msgstr ""
+"Esta operación se aplica después de \"Múltiples 'Retorno de línea' en un párrafo\"\n"
+"y antes de \"Varios párrafos vacíos\""
 
 #: config.py:230
 msgid "Multiple empty paragraph:"
-msgstr ""
+msgstr "Múltiples párrafos vacíos:"
 
 #: config.py:236
 msgid "Keyboard shortcuts..."
-msgstr ""
+msgstr "Atajos de Teclado..."
 
 #: config.py:237
 msgid "Edit the keyboard shortcuts associated with this plugin"
-msgstr ""
+msgstr "Edite los atajos de teclado asociados con este complemento"
