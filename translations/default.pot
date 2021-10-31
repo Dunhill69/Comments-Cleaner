@@ -229,7 +229,7 @@ msgstr "Múltiples 'Retorno de línea' en un párrafo:"
 
 #: config.py:224
 msgid "Single 'Line Return' in a paragraph:"
-msgstr ""
+msgstr "'Retorno de línea' único en un párrafo:"
 
 #: config.py:226
 msgid ""
