@@ -36,7 +36,7 @@ msgstr "Ningún libro seleccionado"
 
 #: action.py:87 action.py:92
 msgid "No book selected for cleaning comments"
-msgstr "Ningún libro seleccionado para comentarios de limpieza"
+msgstr "Ningún libro seleccionado para limpieza de comentarios"
 
 #: action.py:123
 msgid "Cancel"
